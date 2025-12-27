@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./logo.svg" width="480" alt="ClovaLink Logo" />
+  <a href="https://github.com/clovalink/clovalink">
+    <img src="./logo.svg" width="480" alt="ClovaLink Logo" />
+  </a>
 </p>
 
 # ClovaLink
@@ -70,3 +72,4 @@ MIT — use it, fork it, build on it.
 ---
 
 🔗 https://github.com/clovalink
+
