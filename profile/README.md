@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.svg" width="240" alt="ClovaLink Logo" />
+  <img src="./logo.svg" width="600" alt="ClovaLink Logo" />
 </p>
 
 # ClovaLink
